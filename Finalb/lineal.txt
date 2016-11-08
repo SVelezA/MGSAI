@@ -1,0 +1,23 @@
+Mantenimiento manual de vias: roceria, limpieza de obras de drenaje, limpieza y reparacion de señales.
+Mantenimiento mecánico de vias: remocion de derrumbes, perfilado y compactacion de superficie, reconstruccion de cunetas.
+Mantenimiento rutinario de vias: Incluye las actividades de mantenimiento manual / mecánico, reparacion de baches en afirmado y reparcheos en pavimento
+Mantenimiento periodico: Incluye las actividades de mantenimiento rutinario; Mantenimiento de obras de drenaje y de paso; Reposicion de pavimento, recuperacion de estructura de pavimento; Recuperacion/reconstruccion de estructura/espesores de afirmado; Construccion de obras de proteccion / muros de contencion; Reconstruccion de obras de drenaje; Recuperacion de señalizacion horizontal y vertical; Mantenimiento de puentes. 
+Rehabilitacion de rasante de vias: Construccion obras de drenaje; Recuperacion/reconstruccion de estructura/espesores de afirmado; Reposicion de pavimento, recuperacion de estructura de pavimento; Construccion obras de estabilizacion de taludes / contencion 
+Rehabilitacion de puntos criticos viales: Construccion obras de estabilizacion de taludes / contencion; Construccion de calzadas/viaductos otras obras de paso; Construccion obras de estabilizacion de taludes / contencion 
+Mejoramiento vial: Estabilizacion fisico-quimica de afirmados; Construccion afirmados; Tratamiento superficial doble riego; Pavimentacion pavimento rigido; Pavimentacion pavimento flexible; Rectificacion alineamiento vertical/horizontal; Ampliacion calzada / construccion nuevos carriles; Construccion de obras de drenaje y sub-drenaje (filtros); Reposicion/instalacion señalizacion horizontal; Reposicion/instalacion señalizacion vertical; Reposicion/instalacion iluminacion; Construccion de redes de iluminacion
+Mantenimiento rutinario de puentes
+Rehabilitacion estructural de puentes
+Reposicion de elementos del puente
+Construccion de obras de proteccion de puentes
+Mantenimiento obras de proteccion
+Construccion de puentes
+Pavimentacion de vias urbanas: Construccion de pavimento rigido; Construccion de pavimento flexible; Construccion otros tipo de pavimento; Bacheo; Reparcheos, reconstruccion
+Mantenimiento electromecánico de cables aéreos
+Mantenimiento rutinario y mantenimiento sistemas electromecánicos de túneles
+Construccion de túneles
+Mantenimiento mecánico de vias terciarias
+Construccion de rieles
+Construccion de pavimento placa-huella
+Construccion de obras de iluminacion, obras complementarias
+Construccion de redes de acueducto, alcantarillado
+Construccion de redes de transmision eléctrica
